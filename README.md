@@ -19,7 +19,7 @@ class Bartender
   end
 
   def intro
-    "Hello, my name is #{name}!"
+    "Hello, my name is #{@name}!"
   end
 end
 
